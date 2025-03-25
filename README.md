@@ -38,22 +38,22 @@ https://github.com/DS-programming-saga/excelAndCSV
 
 10. [Excelを書く](./10_ExcelAndCSV2.pdf)
 
-https://github.com/first-programming-saga/excelAndCSV2
+https://github.com/DS-programming-saga/excelAndCSV2
 
 11. [作図の基本: 佐賀県の人口構成、九州各県の人口](./11_SimplePlot.pdf)
 
-https://github.com/first-programming-saga/plotSample
+https://github.com/DS-programming-saga/plotSample
 
 12. [エクセルのデータを作図する: 佐賀県の人口構成推移](./12_PlotWithExcel.pdf)
 
-https://github.com/first-programming-saga/SagaPopulation
+https://github.com/DS-programming-saga/SagaPopulation
 
 13. [Webの利用: 佐賀の天気](../.github/profile/13_SagaTenki.pdf)
 
-https://github.com/first-programming-saga/withURL
+https://github.com/DS-programming-saga/withURL
 
-14. [MATLABプログラム入門](./14_Fractals.pdf)
+14. [MATLABプログラム入門](./11_Fractals.pdf)
 
-https://github.com/first-programming-saga/fractals
+https://github.com/DS-programming-saga/fractals
 
 15. 機械学習紹介と課題演習支援
