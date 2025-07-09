@@ -54,6 +54,6 @@ https://github.com/DS-programming-saga/withURL
 
 14. [MATLABプログラム入門](./14_MATLAB.pdf)
 
-https://github.com/DS-programming-saga/fractals
+https://github.com/DS-programming-saga/forMatlab
 
 15. 機械学習紹介と課題演習支援
